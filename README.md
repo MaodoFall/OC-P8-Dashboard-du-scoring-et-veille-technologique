@@ -88,7 +88,7 @@ Comparer une approche **state-of-the-art NLP (DeBERTa)** à celle utilisée pré
 ## 🙋‍♂️ Réalisé par
 
 **Maodo FALL**  
-* Data Scientist *
+*Data Scientist*
 
 ---
 
