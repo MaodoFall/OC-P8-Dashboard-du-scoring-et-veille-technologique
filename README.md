@@ -46,7 +46,7 @@ Le dashboard développé avec **Streamlit** permet de :
 | Fonction                             | Implémentation |
 |--------------------------------------|----------------|
 | Score de prédiction                  | API FastAPI hébergée sur AWS ECS |
-| Graphique SHAP local (client)        | SHAP + Pyplot/Seaborn |
+| Graphique SHAP local/global (client)        | SHAP + Pyplot/Seaborn |
 | Statistiques descriptives client     | Pandas + Streamlit display |
 | Comparaison client/population        | Filtrage interactif + graphiques |
 | Accessibilité WCAG                   | Contraste élevé + palettes perceptibles |
