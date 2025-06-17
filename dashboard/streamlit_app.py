@@ -106,7 +106,7 @@ if response_global.status_code == 200:
 
     # Liste des features restantes pour la comparaison
     remaining_features = [feat for feat in top_15_features_global_list if feat != feature_x]
-    # Sélection de la seuxième caractéristique
+    # Sélection de la deuxième caractéristique
     feature_y = st.selectbox("🚀 Sélectionner une nouvelle feature", remaining_features)
     if feature_y:
         if st.button("📊 Analyse Bi-Variée"):
