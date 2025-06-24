@@ -78,7 +78,7 @@ Comparer une approche **state-of-the-art NLP (DeBERTa)** à celle utilisée pré
 |----------------------|------------------------------------------------------------------------------|
 | Modélisation          | Comparaison fine de modèles NLP (DeBERTa vs BERT)               |
 | Explicabilité         | SHAP & LIME pour expliquer les prédictions (globalement et localement)     |
-| MLOps                | Appels d’API, intégration backend/Streamlit                                 |
+| MLOps                | Appels d’API, liaison backend/Streamlit(frontend)                          |
 | Visualisation         | UX/UI claire pour non-techniciens (chargés de relation client)             |
 | Veille IA             | Rédaction d’une note de synthèse sur un modèle récent                      |
 | Communication         | Présentation orale & support technique                                     |
