@@ -76,7 +76,7 @@ Comparer une approche **state-of-the-art NLP (DeBERTa)** à celle utilisée pré
 
 | Domaine              | Compétence                                                                  |
 |----------------------|------------------------------------------------------------------------------|
-| Modélisation          | Comparaison fine de modèles NLP non-supervisés (DeBERTa vs BERT)               |
+| Modélisation          | Comparaison fine de modèles NLP (DeBERTa vs BERT)               |
 | Explicabilité         | SHAP & LIME pour expliquer les prédictions (globalement et localement)     |
 | MLOps                | Appels d’API, intégration backend/Streamlit                                 |
 | Visualisation         | UX/UI claire pour non-techniciens (chargés de relation client)             |
